@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223768088640",
+    "project_id": "teacher-8c9f1",
+    "storage_bucket": "teacher-8c9f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223768088640:android:bfa9124930bb4d9868cfa5",
+        "android_client_info": {
+          "package_name": "com.example.newwa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223768088640-jhpts7eecn5bsca7riprl7qk4531eefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxpxNLno8bkO2QybUXjLdsrT7J-MqVK3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223768088640-jhpts7eecn5bsca7riprl7qk4531eefr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
